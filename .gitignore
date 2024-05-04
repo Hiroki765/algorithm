@@ -3,3 +3,8 @@ c/cryptarithm
 c++/evenumber
 c/closestPairProblem
 c++/closestPairProblem
+rust/closestPairProblem.rs
+python/closestPairProblem.py
+c++/linearSearch
+c++/pairingMinimumValue
+c++/partialSums
